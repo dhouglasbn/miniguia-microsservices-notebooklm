@@ -169,6 +169,12 @@ Mais do que um resumo teórico, este repositório demonstra:
 
 ---
 
+## 📖 Glossário
+
+https://github.com/dhouglasbn/miniguia-microsservices-notebooklm/blob/main/Glossary.md
+
+---
+
 ## 🔁 Prompts reutilizáveis
 
 ```
